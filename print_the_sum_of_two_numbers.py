@@ -8,3 +8,4 @@ second_num = int(input("Enter a number: "))
 sum_of_two_numbers = first_num + second_num
 
 # Print the result
+print(sum_of_two_numbers)
