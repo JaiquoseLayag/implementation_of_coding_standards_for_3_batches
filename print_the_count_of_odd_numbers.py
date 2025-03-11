@@ -11,3 +11,4 @@ for i in range(10):
         count += 1
         
 # Print the total count
+print(count)
