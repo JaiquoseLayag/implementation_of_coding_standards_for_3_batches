@@ -8,3 +8,4 @@ second_num = int(input("Enter a number: "))
 product = first_num * second_num
 
 # Print result
+print(product)
