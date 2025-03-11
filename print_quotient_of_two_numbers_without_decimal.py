@@ -8,3 +8,4 @@ second_num = int(input("Enter a number: "))
 quotient = first_num // second_num
 
 # Print quotient without decimals
+print(quotient)
