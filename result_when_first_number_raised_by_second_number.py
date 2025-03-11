@@ -5,7 +5,7 @@ first_num = int(input("Enter a number: "))
 second_num = int(input("Enter a number: "))
 
 # Raise first number by the second number
-result = first_num * second_num
+result = first_num ** second_num
 
 # Print result
 print(result)
