@@ -5,4 +5,6 @@ first_num = int(input("Enter a number: "))
 second_num = int(input("Enter a number: "))
 
 # Use floor division (//) to divide two numbers
+quotient = first_num // second_num
+
 # Print quotient without decimals
