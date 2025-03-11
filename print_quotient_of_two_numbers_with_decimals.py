@@ -8,3 +8,4 @@ second_num = int(input("Enter a number: "))
 quotient = first_num / second_num
 
 # Print the quotient
+print(quotient)
