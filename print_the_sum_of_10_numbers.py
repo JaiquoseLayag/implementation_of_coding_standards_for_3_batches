@@ -8,3 +8,4 @@ for i in range(10):
     total = total + i
     
 # Print total
+print(total) 
