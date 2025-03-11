@@ -5,4 +5,6 @@ first_num = int(input("Enter a number: "))
 second_num = int(input("Enter a number: "))
 
 # Use modulus (%) to find the remainder
+remainder = first_num % second_num
+
 # Print remainder
