@@ -7,4 +7,7 @@ for i in range(10):
     
 # Check each number if they are odd
 # Add 1 to the count for each odd number found
+    if i % 2 != 0:
+        count += 1
+        
 # Print the total count
