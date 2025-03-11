@@ -5,3 +5,4 @@ for i in range(101):
     if i % 10 != 0:
         
 # Print all remaining numbers
+        print(i)
