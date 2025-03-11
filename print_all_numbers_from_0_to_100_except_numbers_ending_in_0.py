@@ -2,4 +2,6 @@
 for i in range(101):
     
 # Use modulus to check if the number ends in 0
+    if i % 10 != 0:
+        
 # Print all remaining numbers
