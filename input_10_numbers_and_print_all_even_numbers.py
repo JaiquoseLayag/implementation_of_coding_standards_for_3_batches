@@ -4,4 +4,4 @@ for i in range(10):
 # Use modulus (%) to check if numbers are even
     if num % 2 == 0:
 # Print all even numbers
-        print(num)
+print(num)
