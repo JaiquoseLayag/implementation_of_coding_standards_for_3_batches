@@ -4,3 +4,4 @@ number = 1
 while number < 100:
     print(number)
 # Print the numbers while adding 2 everytime
+    num += 2
