@@ -13,4 +13,4 @@ while True:
         break
 
 if entered_numbers:
-    print("Smallest Number: " + str(main(entered_numbers)))
+    print("Smallest Number: " + str(min(entered_numbers)))
