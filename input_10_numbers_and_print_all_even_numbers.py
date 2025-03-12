@@ -2,4 +2,6 @@
 for i in range(10):
     num = int(input("Enter a number: "))
 # Use modulus (%) to check if numbers are even
+    if num % 2 == 0:
 # Print all even numbers
+        print(num)
