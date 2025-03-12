@@ -12,3 +12,6 @@ while True:
             print("Unique")
             entered_numbers.add(numbers)
 # Break the loop once the input is invalid
+    except ValueError:
+        print("Invalid input. Exiting")
+        break
