@@ -11,3 +11,4 @@ for num in numbers:
     if numbers.count(num) == 1:
         non_duplicate.append(num)
 # Print all numbers with a count of 1
+print(non_duplicates)
