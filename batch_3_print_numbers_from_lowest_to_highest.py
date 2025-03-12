@@ -8,3 +8,9 @@ while True:
         entered_numbers.append(num)    
 # Break the loop once input is invalid
 # Sort the list from lowest to highest and print the list
+    except ValueError:
+        print("Invalid input. Exiting.")
+        break
+
+entered_numbers.sort()
+print(entered_numbers)
