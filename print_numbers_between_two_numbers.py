@@ -8,3 +8,5 @@ if a > b:
     a, b = b, a
 # Use a loop and increment by 1 until it reaches the bigger number
 # Print the number
+for i in range(a + 1, b):
+    print(i)
