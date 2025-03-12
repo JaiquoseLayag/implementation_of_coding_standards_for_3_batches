@@ -10,3 +10,5 @@ for i in range(10):
 for num in numbers:
     if num not in first_entry:
 # Print the numbers
+        print(num)
+        first_entry.add(num)
