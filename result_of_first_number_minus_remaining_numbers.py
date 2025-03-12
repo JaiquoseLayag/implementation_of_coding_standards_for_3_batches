@@ -3,6 +3,7 @@ numbers = []
 # Use a loop and ask the user to input 10 numbers
 for i in range(10):
     num = int(input("Enter a number: "))
+    numbers.append(num)
 # Set the first number and add the remaining numbers 
     first_num = numbers[0]
     remaining_num = numbers[1:]
