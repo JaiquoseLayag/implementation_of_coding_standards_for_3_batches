@@ -7,4 +7,6 @@ for i in range(10):
     first_num = numbers[0]
     remaining_num = numbers[1:]
 # Subtract the sum of the remaining numbers from the first number
+    result - first_num - remaining_num
 # Print result
+print(result)
